@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/saiyans.dir/link.d CMakeFiles/saiyans.dir/src/main.c.o CMakeFiles/saiyans.dir/src/world.c.o -o saiyans  /usr/lib/libSDL2-2.0.so.0.3000.11 /usr/lib/libSDL2_image.so

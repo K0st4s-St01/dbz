@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/chess5701.dir/link.d CMakeFiles/chess5701.dir/src/chessboard.c.o CMakeFiles/chess5701.dir/src/main.c.o -o chess5701  /usr/lib/libSDL2-2.0.so.0.3000.11 /usr/lib/libSDL2_image.so

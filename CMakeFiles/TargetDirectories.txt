@@ -1,0 +1,3 @@
+/home/xator/Projects/sayans/CMakeFiles/saiyans.dir
+/home/xator/Projects/sayans/CMakeFiles/edit_cache.dir
+/home/xator/Projects/sayans/CMakeFiles/rebuild_cache.dir
